@@ -1,0 +1,4 @@
+1, Hoang Hai Duy, 22, 2, 10000.0
+2, Ma Hong Thiep, 23, 3, 11000.0
+3, Hai Duy Hoang, 24, 4, 12000.0
+4, Nguyen The Cong, 25, 5, 15000.0
